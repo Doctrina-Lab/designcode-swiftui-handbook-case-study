@@ -49,4 +49,7 @@
    <FileRef
       location = "group:PageTabView/PageTabView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Animation/Animation.xcodeproj">
+   </FileRef>
 </Workspace>
