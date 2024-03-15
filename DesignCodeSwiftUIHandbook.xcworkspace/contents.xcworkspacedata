@@ -5,6 +5,9 @@
       location = "group:StacksSpacer/StacksSpacer.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:AssetsCatalog/AssetsCatalog.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ShapesAndStroke/ShapesAndStroke.xcodeproj">
    </FileRef>
    <FileRef
