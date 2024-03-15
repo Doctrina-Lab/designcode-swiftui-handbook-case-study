@@ -67,4 +67,7 @@
    <FileRef
       location = "group:LongPressGesture/LongPressGesture.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:DragGesture/DragGesture.xcodeproj">
+   </FileRef>
 </Workspace>
