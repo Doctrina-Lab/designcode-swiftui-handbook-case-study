@@ -43,4 +43,7 @@
    <FileRef
       location = "group:Mask/Mask.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:ClipShape/ClipShape.xcodeproj">
+   </FileRef>
 </Workspace>
