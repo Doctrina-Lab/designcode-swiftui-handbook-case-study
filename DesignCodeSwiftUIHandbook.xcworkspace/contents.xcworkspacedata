@@ -55,4 +55,7 @@
    <FileRef
       location = "group:ViewTransitions/ViewTransitions.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:AnimationModifer/AnimationModifer.xcodeproj">
+   </FileRef>
 </Workspace>
