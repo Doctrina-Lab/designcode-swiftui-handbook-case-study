@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:StacksSpacer/StacksSpacer.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ShapesAndStroke/ShapesAndStroke.xcodeproj">
    </FileRef>
    <FileRef
