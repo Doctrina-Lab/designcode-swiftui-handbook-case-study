@@ -61,4 +61,7 @@
    <FileRef
       location = "group:TransformAnimations/TransformAnimations.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:TapAnimationDelay/TapAnimationDelay.xcodeproj">
+   </FileRef>
 </Workspace>
