@@ -34,4 +34,7 @@
    <FileRef
       location = "group:CustomFonts/CustomFonts.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:MaxWidth/MaxWidth.xcodeproj">
+   </FileRef>
 </Workspace>
