@@ -64,4 +64,7 @@
    <FileRef
       location = "group:TapAnimationDelay/TapAnimationDelay.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:LongPressGesture/LongPressGesture.xcodeproj">
+   </FileRef>
 </Workspace>
