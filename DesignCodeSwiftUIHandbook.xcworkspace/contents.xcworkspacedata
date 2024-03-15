@@ -58,4 +58,7 @@
    <FileRef
       location = "group:AnimationModifer/AnimationModifer.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:TransformAnimations/TransformAnimations.xcodeproj">
+   </FileRef>
 </Workspace>
