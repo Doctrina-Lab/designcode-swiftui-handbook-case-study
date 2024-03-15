@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ShapesAndStroke/ShapesAndStroke.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SFSymbols/SFSymbols.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Sidebar/Sidebar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Toolbar/Toolbar.xcodeproj">
+   </FileRef>
+</Workspace>
