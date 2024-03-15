@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUITrackableScrollView",
+        "repositoryURL": "https://github.com/maxnatchanon/trackable-scroll-view.git",
+        "state": {
+          "branch": "master",
+          "revision": "4b094575c2370c3341d0b377a27b46bda4f937f7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
