@@ -25,4 +25,7 @@
    <FileRef
       location = "group:ImageView/ImageView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:SafeArea/SafeArea.xcodeproj">
+   </FileRef>
 </Workspace>
