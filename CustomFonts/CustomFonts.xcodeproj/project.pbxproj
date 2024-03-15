@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		96F90B3625C0CA10000CFB8D /* CustomFontsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F90B3525C0CA10000CFB8D /* CustomFontsApp.swift */; };
+		96F90B3825C0CA10000CFB8D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F90B3725C0CA10000CFB8D /* ContentView.swift */; };
+		96F90B3A25C0CA11000CFB8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B3925C0CA11000CFB8D /* Assets.xcassets */; };
+		96F90B3D25C0CA11000CFB8D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B3C25C0CA11000CFB8D /* Preview Assets.xcassets */; };
+		96F90B6A25C0CCA2000CFB8D /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B5F25C0CCA2000CFB8D /* OpenSans-SemiBold.ttf */; };
+		96F90B6B25C0CCA2000CFB8D /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6025C0CCA2000CFB8D /* OpenSans-Light.ttf */; };
+		96F90B6C25C0CCA2000CFB8D /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6125C0CCA2000CFB8D /* OpenSans-Italic.ttf */; };
+		96F90B6D25C0CCA2000CFB8D /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6225C0CCA2000CFB8D /* OpenSans-ExtraBold.ttf */; };
+		96F90B6E25C0CCA2000CFB8D /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6325C0CCA2000CFB8D /* OpenSans-LightItalic.ttf */; };
+		96F90B6F25C0CCA2000CFB8D /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6425C0CCA2000CFB8D /* OpenSans-Bold.ttf */; };
+		96F90B7025C0CCA2000CFB8D /* OpenSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6525C0CCA2000CFB8D /* OpenSans-SemiBoldItalic.ttf */; };
+		96F90B7125C0CCA2000CFB8D /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6625C0CCA2000CFB8D /* OpenSans-ExtraBoldItalic.ttf */; };
+		96F90B7225C0CCA2000CFB8D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6725C0CCA2000CFB8D /* LICENSE.txt */; };
+		96F90B7325C0CCA2000CFB8D /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6825C0CCA2000CFB8D /* OpenSans-Regular.ttf */; };
+		96F90B7425C0CCA2000CFB8D /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96F90B6925C0CCA2000CFB8D /* OpenSans-BoldItalic.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		96F90B3225C0CA10000CFB8D /* CustomFonts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomFonts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		96F90B3525C0CA10000CFB8D /* CustomFontsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFontsApp.swift; sourceTree = "<group>"; };
+		96F90B3725C0CA10000CFB8D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		96F90B3925C0CA11000CFB8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		96F90B3C25C0CA11000CFB8D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		96F90B3E25C0CA11000CFB8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96F90B5F25C0CCA2000CFB8D /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		96F90B6025C0CCA2000CFB8D /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		96F90B6125C0CCA2000CFB8D /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		96F90B6225C0CCA2000CFB8D /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		96F90B6325C0CCA2000CFB8D /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		96F90B6425C0CCA2000CFB8D /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		96F90B6525C0CCA2000CFB8D /* OpenSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		96F90B6625C0CCA2000CFB8D /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		96F90B6725C0CCA2000CFB8D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		96F90B6825C0CCA2000CFB8D /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		96F90B6925C0CCA2000CFB8D /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		96F90B2F25C0CA10000CFB8D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		96F90B2925C0CA10000CFB8D = {
+			isa = PBXGroup;
+			children = (
+				96F90B3425C0CA10000CFB8D /* CustomFonts */,
+				96F90B3325C0CA10000CFB8D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		96F90B3325C0CA10000CFB8D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				96F90B3225C0CA10000CFB8D /* CustomFonts.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		96F90B3425C0CA10000CFB8D /* CustomFonts */ = {
+			isa = PBXGroup;
+			children = (
+				96F90B3525C0CA10000CFB8D /* CustomFontsApp.swift */,
+				96F90B3725C0CA10000CFB8D /* ContentView.swift */,
+				96F90B3925C0CA11000CFB8D /* Assets.xcassets */,
+				96F90B5E25C0CCA2000CFB8D /* Open_Sans */,
+				96F90B3E25C0CA11000CFB8D /* Info.plist */,
+				96F90B3B25C0CA11000CFB8D /* Preview Content */,
+			);
+			path = CustomFonts;
+			sourceTree = "<group>";
+		};
+		96F90B3B25C0CA11000CFB8D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				96F90B3C25C0CA11000CFB8D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		96F90B5E25C0CCA2000CFB8D /* Open_Sans */ = {
+			isa = PBXGroup;
+			children = (
+				96F90B5F25C0CCA2000CFB8D /* OpenSans-SemiBold.ttf */,
+				96F90B6025C0CCA2000CFB8D /* OpenSans-Light.ttf */,
+				96F90B6125C0CCA2000CFB8D /* OpenSans-Italic.ttf */,
+				96F90B6225C0CCA2000CFB8D /* OpenSans-ExtraBold.ttf */,
+				96F90B6325C0CCA2000CFB8D /* OpenSans-LightItalic.ttf */,
+				96F90B6425C0CCA2000CFB8D /* OpenSans-Bold.ttf */,
+				96F90B6525C0CCA2000CFB8D /* OpenSans-SemiBoldItalic.ttf */,
+				96F90B6625C0CCA2000CFB8D /* OpenSans-ExtraBoldItalic.ttf */,
+				96F90B6725C0CCA2000CFB8D /* LICENSE.txt */,
+				96F90B6825C0CCA2000CFB8D /* OpenSans-Regular.ttf */,
+				96F90B6925C0CCA2000CFB8D /* OpenSans-BoldItalic.ttf */,
+			);
+			path = Open_Sans;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		96F90B3125C0CA10000CFB8D /* CustomFonts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96F90B4125C0CA11000CFB8D /* Build configuration list for PBXNativeTarget "CustomFonts" */;
+			buildPhases = (
+				96F90B2E25C0CA10000CFB8D /* Sources */,
+				96F90B2F25C0CA10000CFB8D /* Frameworks */,
+				96F90B3025C0CA10000CFB8D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CustomFonts;
+			productName = CustomFonts;
+			productReference = 96F90B3225C0CA10000CFB8D /* CustomFonts.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		96F90B2A25C0CA10000CFB8D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
+				TargetAttributes = {
+					96F90B3125C0CA10000CFB8D = {
+						CreatedOnToolsVersion = 12.3;
+					};
+				};
+			};
+			buildConfigurationList = 96F90B2D25C0CA10000CFB8D /* Build configuration list for PBXProject "CustomFonts" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 96F90B2925C0CA10000CFB8D;
+			productRefGroup = 96F90B3325C0CA10000CFB8D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				96F90B3125C0CA10000CFB8D /* CustomFonts */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		96F90B3025C0CA10000CFB8D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96F90B7225C0CCA2000CFB8D /* LICENSE.txt in Resources */,
+				96F90B7025C0CCA2000CFB8D /* OpenSans-SemiBoldItalic.ttf in Resources */,
+				96F90B3D25C0CA11000CFB8D /* Preview Assets.xcassets in Resources */,
+				96F90B6A25C0CCA2000CFB8D /* OpenSans-SemiBold.ttf in Resources */,
+				96F90B6F25C0CCA2000CFB8D /* OpenSans-Bold.ttf in Resources */,
+				96F90B6E25C0CCA2000CFB8D /* OpenSans-LightItalic.ttf in Resources */,
+				96F90B6B25C0CCA2000CFB8D /* OpenSans-Light.ttf in Resources */,
+				96F90B6C25C0CCA2000CFB8D /* OpenSans-Italic.ttf in Resources */,
+				96F90B7425C0CCA2000CFB8D /* OpenSans-BoldItalic.ttf in Resources */,
+				96F90B7125C0CCA2000CFB8D /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				96F90B3A25C0CA11000CFB8D /* Assets.xcassets in Resources */,
+				96F90B7325C0CCA2000CFB8D /* OpenSans-Regular.ttf in Resources */,
+				96F90B6D25C0CCA2000CFB8D /* OpenSans-ExtraBold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		96F90B2E25C0CA10000CFB8D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96F90B3825C0CA10000CFB8D /* ContentView.swift in Sources */,
+				96F90B3625C0CA10000CFB8D /* CustomFontsApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		96F90B3F25C0CA11000CFB8D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		96F90B4025C0CA11000CFB8D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		96F90B4225C0CA11000CFB8D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"CustomFonts/Preview Content\"";
+				DEVELOPMENT_TEAM = 68WS2M23VC;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = CustomFonts/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = io.designcode.io.CustomFonts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		96F90B4325C0CA11000CFB8D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"CustomFonts/Preview Content\"";
+				DEVELOPMENT_TEAM = 68WS2M23VC;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = CustomFonts/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = io.designcode.io.CustomFonts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		96F90B2D25C0CA10000CFB8D /* Build configuration list for PBXProject "CustomFonts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96F90B3F25C0CA11000CFB8D /* Debug */,
+				96F90B4025C0CA11000CFB8D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96F90B4125C0CA11000CFB8D /* Build configuration list for PBXNativeTarget "CustomFonts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96F90B4225C0CA11000CFB8D /* Debug */,
+				96F90B4325C0CA11000CFB8D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96F90B2A25C0CA10000CFB8D /* Project object */;
+}

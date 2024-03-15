@@ -31,4 +31,7 @@
    <FileRef
       location = "group:TextView/TextView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:CustomFonts/CustomFonts.xcodeproj">
+   </FileRef>
 </Workspace>
