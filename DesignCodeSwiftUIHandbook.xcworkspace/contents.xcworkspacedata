@@ -40,4 +40,7 @@
    <FileRef
       location = "group:Shadows/Shadows.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Mask/Mask.xcodeproj">
+   </FileRef>
 </Workspace>
