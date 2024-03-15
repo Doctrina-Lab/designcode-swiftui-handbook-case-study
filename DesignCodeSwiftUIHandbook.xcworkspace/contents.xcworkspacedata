@@ -70,4 +70,7 @@
    <FileRef
       location = "group:DragGesture/DragGesture.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:MatchedGeometry/MatchedGeometry.xcodeproj">
+   </FileRef>
 </Workspace>
