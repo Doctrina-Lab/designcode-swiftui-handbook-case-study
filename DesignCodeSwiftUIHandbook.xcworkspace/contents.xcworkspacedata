@@ -14,9 +14,15 @@
       location = "group:SFSymbols/SFSymbols.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:ColorLiteral/ColorLiteral.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Sidebar/Sidebar.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Toolbar/Toolbar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ImageView/ImageView.xcodeproj">
    </FileRef>
 </Workspace>
